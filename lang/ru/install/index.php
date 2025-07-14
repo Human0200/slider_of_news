@@ -1,6 +1,13 @@
-<?php
-	$MESS["STAR_BXSLIDER_MODULE_NAME"] = "Слайдер изображений (галерея фото)";
-	$MESS["STAR_BXSLIDER_MODULE_DESC"] = "Модуль поможет вам добавить в любое место страницы слайд-шоу из произвольных изображений.";
-	$MESS["STAR_BXSLIDER_PARTNER_NAME"] = "STARt";
-	$MESS["STAR_BXSLIDER_PARTNER_URI"] = "https://startpl.ru/";
+<?
+$MESS["startwww.slider_MODULE_NAME"] = "Слайдер";
+$MESS["startwww.slider_MODULE_DESC"] = "Слайдер новостей, предложений";
+$MESS["startwww.slider_PARTNER_NAME"] = "Старт";
+$MESS["startwww.slider_PARTNER_URI"] = "http://www.startwww.ru/";
+$MESS["startwww.slider_INSTALL_TITLE"] = "Установка модуля Слайдер";
+$MESS["startwww.slider_UNISTALL_TITLE"] = "Удаление модуля Слайдер";
+$MESS["startwww.slider_SETUP_EXAMPLE_ANSWER"] = "Установить демо данные?";
+$MESS["startwww.slider_DELETE_EXAMPLE_ANSWER"] = "Удалить демо данные?";
+
+$MESS["startwww.slider_IBLOCK_NAME"] = "Слайдер";
+$MESS["startwww.slider_PROPERTY_NAME"] = "Ссылка";
 ?>
